@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OPL")(type "KiCad")(uri "C:/Users/4 Square/Documents/Github/hardware/KiCad/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "CARE")(type "KiCad")(uri "C:/Users/4 Square/Documents/Github/HackClub/Hardware/kicad_care_package/kicad_care_package/footprints.pretty")(options "")(descr ""))
+)
