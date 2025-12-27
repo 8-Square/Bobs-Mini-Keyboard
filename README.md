@@ -7,12 +7,16 @@ The mini keyboard contains 10 keys and 3 simple leds
 
 ### PCB
 
-Images Of the PCB:
+The PCB's overall size is 110 x 80
+
+**Images Of the PCB:**
 |Schematic |PCB |
 |--------------|--------|
 | <img width="1342" height="797" alt="Screenshot 2025-12-27 081353" src="https://github.com/user-attachments/assets/216f4abc-848a-4482-b2cd-6aa8eb87d01c" /> | <img width="1104" height="793" alt="Screenshot 2025-12-24 142944" src="https://github.com/user-attachments/assets/c4b93606-2f16-4bf5-bf7d-b7a59b9e4b29" />
 
 ### CAD
+
+The CAD casing size is 130 x 100 x 14.5
 
 **Overall Casing**
 
